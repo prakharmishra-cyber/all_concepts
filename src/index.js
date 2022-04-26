@@ -7,7 +7,7 @@ import userReducer from './features/user';
 
 const store = configureStore({
   reducers:{
-    user:userReducer,
+    user : userReducer,
   },
 });
 
